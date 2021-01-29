@@ -14,5 +14,7 @@ public interface Demo {
 	
 	
 	void  cc();
+	
+	void cc2();
 
 }
