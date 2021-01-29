@@ -8,5 +8,8 @@ public interface Demo {
 	void fun4();
 	void fun5();
 	void fun6();
+	
+	//新增方法
+	void method();
 
 }
