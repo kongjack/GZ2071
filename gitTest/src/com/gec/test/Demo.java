@@ -1,8 +1,12 @@
 package com.gec.test;
 
-public class Demo {
-	public static void main(String[] args) {
-		System.out.println("hello world!");
-	}
+public interface Demo {
+	
+	void fun1();
+	void fun2();
+	void fun3();
+	void fun4();
+	void fun5();
+	void fun6();
 
 }
