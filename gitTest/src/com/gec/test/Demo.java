@@ -11,5 +11,8 @@ public interface Demo {
 	
 	//zzq又添加了新的方法bbb()
 	void bbb();
+	
+	
+	void  cc();
 
 }
