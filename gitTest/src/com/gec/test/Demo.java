@@ -3,6 +3,8 @@ package com.gec.test;
 public interface Demo {
 	
 
+
+
 	
 	//新增方法
 	void method();
